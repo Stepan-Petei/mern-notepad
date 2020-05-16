@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://stepanpetei:RQE0EqMbLDmURpGm@cluster0-uyakg.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000",
+  "jwtSecret": "access granted"
+}
